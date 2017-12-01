@@ -23,7 +23,7 @@ W menu znajdują się opcje do wyboru:
 Gra:
 
     klawisz prawy - poruszanie się paletki w prawo
-    klawiszl ewy - poruszanie się paletki w lewo
+    klawisz lewy - poruszanie się paletki w lewo
     spacja - start gry
 
 W celu rozpoczęcia gry należy uruchomić plik main.py.
@@ -43,6 +43,9 @@ Grafika oraz dźwięki wykorzystane w grze:
 
 5. Muzyka w tle menu: http://www.freesounds.info/ , license: CC
 
+6. Tlo levelu 2: https://pixabay.com/en/christmas-christmas-tree-2977561/ , licencja: CC0 Creative Commons
+
+7. Tlo levelu 3: https://pixabay.com/en/background-backdrop-bokeh-bubbles-2905526/ , licencja: CC0 Creative Commons
 
 
 # English
@@ -90,3 +93,6 @@ Graphics and sounds used in the game:
 
 5. Muzyka w tle menu: http://www.freesounds.info/ , license: CC
 
+6. Tlo levelu 2: https://pixabay.com/en/christmas-christmas-tree-2977561/ , licencja: CC0 Creative Commons
+
+7. Tlo levelu 3: https://pixabay.com/en/background-backdrop-bokeh-bubbles-2905526/ , licencja: CC0 Creative Commons
